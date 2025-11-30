@@ -1,0 +1,12 @@
+com\integration\builder\config\OpenAIConfig.class
+com\integration\builder\service\AICodeGeneratorService.class
+com\integration\builder\dto\GenerationOptions.class
+com\integration\builder\IntegrationBuilderApplication.class
+com\integration\builder\service\SandboxExecutorService.class
+com\integration\builder\controller\IntegrationBuilderController.class
+com\integration\builder\dto\GeneratedCode$FileContent.class
+com\integration\builder\dto\TestResult.class
+com\integration\builder\dto\GenerationRequest.class
+com\integration\builder\dto\GeneratedCode.class
+com\integration\builder\dto\SandboxTestRequest.class
+com\integration\builder\service\DocumentationFetcherService.class
